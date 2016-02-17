@@ -34,7 +34,7 @@ module.exports = {
       include: __dirname
     },
     {
-      test: /\.png?$/,
+      test: /\.(png|ico|gif)?$/,
       loaders: [ 'file' ],
       include: __dirname
     }]

@@ -46,6 +46,7 @@
     "node-libs-browser": "^0.5.2",
     "react-addons-test-utils": "^0.14.0",
     "react-transform-hmr": "^1.0.0",
+    "serve-favicon": "^2.3.0",
     "style-loader": "^0.12.3",
     "todomvc-app-css": "^2.0.1",
     "url-loader": "^0.5.7",
